@@ -1,7 +1,5 @@
 package org.example;
 
-import org.apache.log4j.BasicConfigurator;
-
 import javax.xml.bind.JAXBException;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
@@ -21,7 +19,6 @@ public class Main {
         StudentManager studMan = new StudentManager();
         Scanner scan = new Scanner(System.in);
         studMan.readFromXML();
-        BasicConfigurator.configure();
 
         String usrInp;
         boolean finishThis = false;
