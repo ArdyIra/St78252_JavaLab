@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ListOfStudents>
+    <Student>
+        <dateOfBirth>11/12/1996</dateOfBirth>
+        <email>aaa</email>
+        <name>aaa</name>
+        <studentID>aaa</studentID>
+    </Student>
+    <Student>
+        <dateOfBirth>20/09/1282</dateOfBirth>
+        <email>boi</email>
+        <name>abba</name>
+        <studentID>ye</studentID>
+    </Student>
+    <Student>
+        <dateOfBirth>17/03/2224</dateOfBirth>
+        <email>aPrettyCoolGuy@CoolGuys.com</email>
+        <name>Garry</name>
+        <studentID>Mod</studentID>
+    </Student>
+</ListOfStudents>
